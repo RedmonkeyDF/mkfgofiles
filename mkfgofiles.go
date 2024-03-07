@@ -1,4 +1,4 @@
-package mkffiles
+package mkfgofiles
 
 import (
 	"os"
